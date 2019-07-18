@@ -16,8 +16,8 @@ Decoding with this model for benchmarking my own ASR mdl
 | 002-2 | cmu-Arctic-US-slt | native | 1130 | WER 4.87 [ 486 / 9971, 119 ins, 15 del, 352 sub ] |
 | 002-3 | cmu-Arctic-US-clb | native | 1130 | WER 4.81 [ 480 / 9971, 119 ins, 19 del, 342 sub ] |
 | 002-4 | cmu-Arctic-US-rms | native | 1130 | WER 5.23 [ 521 / 9971, 155 ins, 15 del, 351 sub ] |
-| 003 | cmu-Arctic-CANADIAN-jmk | native | 1130 | WER 8.23 [ 821 / 9971, 155 ins, 109 del, 557 sub ] |
-| 004 | cmu-Arctic-SCOTTISH-awb | native | 1130 | WER 67.63 [ 6743 / 9971, 1050 ins, 932 del, 4761 sub ] |
+| 003 | cmu-Arctic-CANADIAN-jmk | native-accent | 1130 | WER 8.23 [ 821 / 9971, 155 ins, 109 del, 557 sub ] |
+| 004 | cmu-Arctic-SCOTTISH-awb | native-accent | 1130 | WER 67.63 [ 6743 / 9971, 1050 ins, 932 del, 4761 sub ] |
 | 005 | cmu-Arctic-INDIAN-ksp | nonnative | 1130 | WER 27.61 [ 2753 / 9971, 436 ins, 222 del, 2095 sub ] |
 | 006 | Librispeech-test-clean | native | 1130 |  |
 | 007 | Librispeech-test-other | native | 1130 |  |
