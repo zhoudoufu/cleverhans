@@ -21,3 +21,5 @@ Decoding with this model for benchmarking my own ASR mdl
 | 005 | cmu-Arctic-INDIAN-ksp | nonnative | 1130 | WER 27.61 [ 2753 / 9971, 436 ins, 222 del, 2095 sub ] |
 | 006 | Librispeech-test-clean | native | 2620 |  |
 | 007 | Librispeech-test-other | native | 2940 |  |
+| 008-1 | speak-batch1 | nonnative | 100 | |
+
