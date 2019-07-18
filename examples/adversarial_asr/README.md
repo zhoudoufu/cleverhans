@@ -119,3 +119,9 @@ This code is based on Lingvo ASR system. Thanks to the contributors of the Lingv
 }
 ```
 
+## KHz changes :
+* Use lingvo model to decode 
+`lingvo_decode_test.py`
+
+* Test WER result 
+`decode_with_lingvo.md`
