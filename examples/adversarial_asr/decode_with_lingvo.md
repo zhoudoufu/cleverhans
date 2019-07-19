@@ -20,6 +20,6 @@ Decoding with this model for benchmarking my own ASR mdl
 | 004 | cmu-Arctic-SCOTTISH-awb | native-accent | 1130 | WER 67.63 [ 6743 / 9971, 1050 ins, 932 del, 4761 sub ] |
 | 005 | cmu-Arctic-INDIAN-ksp | nonnative | 1130 | WER 27.61 [ 2753 / 9971, 436 ins, 222 del, 2095 sub ] |
 | 006 | Librispeech-test-clean | native | 2620 | WER 4.55 [ 2392 / 52576, 319 ins, 182 del, 1891 sub ] |
-| 007 | Librispeech-test-other | native | 2940 |  |
+| 007 | Librispeech-test-other | native | 2930 | WER 13.22 [ 6887 / 52088, 820 ins, 675 del, 5392 sub ] |
 | 008-1 | speak-batch1 | nonnative | 100 | |
 
